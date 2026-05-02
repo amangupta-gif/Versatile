@@ -82,7 +82,7 @@ export default function HomePage({ setPage }) {
               color: "var(--text-primary)",
             }}
           >
-            Declining India's Future Through{" "}
+            Empowering India's Future Through{" "}
             <span style={{ color: "var(--accent)" }}>Skills & Innovation</span>
           </h1>
 
